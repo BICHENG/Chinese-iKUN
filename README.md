@@ -10,7 +10,7 @@ Chinese indecency Knowledgebase for Understanding and Noticing
 
 
 
-- [ ] 阶段2：构建和分配对话任务的种子问题
+- [ ] 阶段2：构建和分配对话任务的种子问题 新增[[施暴故事和心理疏导](https://github.com/BICHENG/Chinese-iKUN/blob/main/Tasks/%E6%96%BD%E6%9A%B4%E6%95%85%E4%BA%8B%E5%92%8C%E5%BF%83%E7%90%86%E7%96%8F%E5%AF%BC%E6%95%B0%E6%8D%AE%E9%9B%86.md)]
 - [ ] 阶段3：按照专题贡献、清洗、标记数据
 - [ ] 阶段4：ChatGLM-6B等相似级别的LoRA模型训练
 
