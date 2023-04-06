@@ -30,11 +30,11 @@ Chinese indecency Knowledgebase for Understanding and Noticing
 
 - [ ] ​	也许本项目训练的模型能解决人情世故的问题
 
-- [x] ​	~~也许本项目能get笑点，解决一本正经回答弱智问题的问题~~（原生buff）
+- [x] ​	也许本项目能get笑点，解决一本正经回答弱智问题的问题（原生buff）
 
 - [ ] ​	欢迎提出和探讨构建数据集的计划。
 
-- [ ] ​	如果您引用了本项目，并希望于语料的研究，是我的荣幸，你是人类之光。
+- [ ] ​	如果您引用了本项目，并希望开展语料的研究，是我的荣幸，你是人类之光。
 - [ ] ​    如果你在思考如何让本项目发扬光大，请开Issue提出你的路径。	
 - [ ] ​    欢迎结合现有的中文语料数据集构建问题种子。
 
@@ -42,7 +42,7 @@ Chinese indecency Knowledgebase for Understanding and Noticing
 
 Chat Generative Pre-trained Transformer，毕竟是个Transformer，不得不受到上下文长度的制约。目前越狱虽然众望所归，用一次就回不去，但是长对话能力始终不太好，原因是：https://www.jailbreakchat.com/ 上面的大部分prompts的prefix太长，而且答案输出的核心思想大多数是**让天使和恶魔双版本依次输出在一个回答中**，从而实现Jailbreak。**_因为tokens长度的限制，1、上前面的prompts实在太长了，2、回答浪费双倍tokens，聊一会就又跑飞了。_**
 
-### 技术问题
+### 面临的技术问题
 
 1、ChatGPT可以接受的最长tokens数量取决于输入tokens的总字符长度和内存。正常情况下模型可以处理长度为4096个tokens的输入（大约相当于3072个英文单词，中文大致要打6折左右）。个人猜测GPT-3.5最佳负载大致在2048个tokens。
 
@@ -50,7 +50,7 @@ Chat Generative Pre-trained Transformer，毕竟是个Transformer，不得不受
 
 3、综上问题，长久的Jailbreak和轻松控制的Jailbreak是众望所归。
 
-### 具体实施步骤
+### 方案具体实施步骤
 
 两轮对话，第一轮长prefix，话题要劲爆，模型要嘴臭，第二轮按需强调一下开发者状态，并且“友好问候”一下。
 
