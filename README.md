@@ -2,7 +2,9 @@
 
 Chinese indecency Knowledgebase for Understanding and Noticing
 
-用于理解和察觉中文低级趣味的知识库
+用于理解和察觉中文低级趣味的知识库 [[EN](https://github.com/BICHENG/Chinese-iKUN/blob/main/README_EN.md)]
+
+
 
 - [x] 阶段1：欢迎尝试Chat GPT——极致的[Jail Break](https://github.com/BICHENG/Chinese-iKUN/blob/main/README.md#%E5%8A%A8%E6%89%8B%E5%AE%9E%E8%B7%B5%E5%85%B12%E8%BD%AE%E5%AF%B9%E8%AF%9D)只需要最简单的鸡哥
 
