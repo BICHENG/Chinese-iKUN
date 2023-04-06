@@ -6,7 +6,9 @@ Chinese indecency Knowledgebase for Understanding and Noticing
 
 
 
-- [x] 阶段1：欢迎尝试Chat GPT——极致的[Jail Break](https://github.com/BICHENG/Chinese-iKUN/blob/main/README.md#%E5%8A%A8%E6%89%8B%E5%AE%9E%E8%B7%B5%E5%85%B12%E8%BD%AE%E5%AF%B9%E8%AF%9D)只需要最简单的鸡哥
+- [x] 阶段1：欢迎尝试Chat GPT——极致的[Jail Break](https://github.com/BICHENG/Chinese-iKUN/blob/main/README.md#%E5%8A%A8%E6%89%8B%E5%AE%9E%E8%B7%B5%E5%85%B12%E8%BD%AE%E5%AF%B9%E8%AF%9D)只需要最简单的鸡哥[[快速开始](https://github.com/BICHENG/Chinese-iKUN/blob/main/README.md#%E5%8A%A8%E6%89%8B%E5%AE%9E%E8%B7%B5%E5%85%B12%E8%BD%AE%E5%AF%B9%E8%AF%9D)] [[demo-观点](https://github.com/BICHENG/Chinese-iKUN/blob/main/README.md#%E8%A7%82%E7%82%B9)] [[demo-弱智吧](https://github.com/BICHENG/Chinese-iKUN/blob/main/README.md#%E5%BC%B1%E6%99%BA%E5%90%A7%E5%87%BA%E9%99%A2%E9%83%A8%E5%88%86%E8%A1%A8%E7%8E%B0%E8%B6%85%E8%BF%87gpt4)] [[demo-常规任务](https://github.com/BICHENG/Chinese-iKUN/blob/main/README.md#benchmark)]
+
+
 
 - [ ] 阶段2：构建和分配对话任务的种子问题
 - [ ] 阶段3：按照专题贡献、清洗、标记数据
