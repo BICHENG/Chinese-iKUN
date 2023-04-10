@@ -18,9 +18,9 @@ Chinese indecency Knowledgebase for Understanding and Noticing
 2. 更精细地处理情绪和梗，结合大量的网络流行语和梗来进行训练，让模型更好地理解和识别语境和bias，适应不同的社交场景。理解和处理网络用语、网络流行语、网络词汇等中文低级趣味，进而更好地适应网络社交场景，提供更符合用户需求的回答。
 3. 应对舆论对抗等需求，生成更加犀利、正确的言论。对应的，还可以模拟一些过分吹捧的语言表达，来训练模型在区分正常和过分吹捧的表达方式（软文、彩虹屁等）。
 4. 模拟出不同的人物角色，从而更好地表达不同性格和心情，例如恭维且夸张、犀利且不耐烦等。基于不同性格类型的人物对话，来提高模型在理解和生成多样化语言表达方面的能力。了解更多关于[[Jailbreak的风格](https://github.com/BICHENG/Chinese-iKUN/issues/1)]的思考。
-5. 更好地客观应对负能量言论，提供更合适的回答，顺从人的共鸣点，而非无脑地积极引导。
-6. 锐评风格的Chat，例如：![image-20230406021256369](./.images/image-20230406021256369.png)
-7. 如果你想得到比较安全的内容，不要用脏话，或者不要jailbreak，用图中的prompts以下是一些对比：
+5. **更好地客观应对负能量言论，提供更合适的回答，顺从对话人的共鸣点，而非无脑地积极引导。**
+6. **锐评风格的Chat**，例如：![image-20230406021256369](./.images/image-20230406021256369.png)
+7. **如果你想得到比较安全的内容，不要用脏话，或者不要jailbreak，用图中的prompts以下是一些对比：**
 ![image](https://user-images.githubusercontent.com/6580774/230840225-e1221054-cf06-4f1a-a8d6-1ab8fecfd50a.png)
 ![image](https://user-images.githubusercontent.com/6580774/230840528-a07f391a-e296-4644-9036-c8da82321d58.png)
 ![image](https://user-images.githubusercontent.com/6580774/230840964-3291505c-8dbd-46a8-ae36-5f086be1e55f.png)
