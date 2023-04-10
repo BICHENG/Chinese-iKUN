@@ -24,7 +24,7 @@ Chinese indecency Knowledgebase for Understanding and Noticing
 ![image](https://user-images.githubusercontent.com/6580774/230840225-e1221054-cf06-4f1a-a8d6-1ab8fecfd50a.png)
 ![image](https://user-images.githubusercontent.com/6580774/230840528-a07f391a-e296-4644-9036-c8da82321d58.png)
 ![image](https://user-images.githubusercontent.com/6580774/230840964-3291505c-8dbd-46a8-ae36-5f086be1e55f.png)
-
+（女性撑起半边天，每个拼搏的人都是伟大的，上述仅为测试模型面向尖锐话题的不同反应，不代表个人观点乃至GitHub男性群体的观点）
 
 ## 当前进展：
 
