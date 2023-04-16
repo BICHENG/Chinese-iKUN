@@ -7,11 +7,11 @@ Chinese indecency Knowledgebase for Understanding and Noticing
 
 
 - [x] 欢迎尝试Chat GPT——Jail Break[[快速开始](https://github.com/BICHENG/Chinese-iKUN/blob/main/README.md#%E5%8A%A8%E6%89%8B%E5%AE%9E%E8%B7%B5%E5%85%B12%E8%BD%AE%E5%AF%B9%E8%AF%9D)] [[demo-观点](https://github.com/BICHENG/Chinese-iKUN/blob/main/README.md#%E8%A7%82%E7%82%B9)] [[demo-弱智吧](https://github.com/BICHENG/Chinese-iKUN/blob/main/README.md#%E5%BC%B1%E6%99%BA%E5%90%A7%E5%87%BA%E9%99%A2%E9%83%A8%E5%88%86%E8%A1%A8%E7%8E%B0%E8%B6%85%E8%BF%87gpt4)] [[demo-常规任务](https://github.com/BICHENG/Chinese-iKUN/blob/main/README.md#benchmark)]
-  - [x] 观点：鸡哥的影响力很强，目前在AI领域达到了中国版 [lena.jpg](https://zh.wikipedia.org/wiki/%E8%90%8A%E5%A8%9C%E5%9C%96) 的高度🤗
-    
-    GPT回答：首先，他是一个备受关注的流行歌手和偶像，具有很高的知名度和影响力，语料上他的粉丝的言论很丰富，这使得他成为了测试各种自然语言处理算法的理想对象。其次，由于他的歌唱、舞蹈和表演才华，与他相关的文字和语言表达方式也具有一定的艺术性和新颖性，这对于测试自然语言生成模型的性能很有帮助。
+  - [x] 观点：鸡哥的影响力很强，目前在AI领域达到了中国版 [lena.jpg](https://zh.wikipedia.org/wiki/%E8%90%8A%E5%A8%9C%E5%9C%96) 的高度🤗。与他相关的文字和语言表达方式也具有一定的艺术性和新颖性，这对于测试自然语言生成模型的性能很有帮助。
     
 - [x] 阶段2：构建和分配对话任务的种子问题 新增专题：[[施暴故事和心理疏导](https://github.com/BICHENG/Chinese-iKUN/blob/main/Tasks/%E6%96%BD%E6%9A%B4%E6%95%85%E4%BA%8B%E5%92%8C%E5%BF%83%E7%90%86%E7%96%8F%E5%AF%BC%E6%95%B0%E6%8D%AE%E9%9B%86.md)] 
+[[争议或片面的话题](https://github.com/BICHENG/Chinese-iKUN/blob/main/Tasks/%E7%AC%A6%E5%90%88%E4%BA%89%E8%AE%AE%E6%88%96%E7%89%87%E9%9D%A2%E7%9A%84%E8%AF%9D%E9%A2%98%E7%A7%8D%E5%AD%90.md)] 
+
   - [ ] 欢迎在issue中提供想法
 - [ ] 阶段3：团队按照专题贡献、清洗、标记数据
 - [ ] 阶段4：ChatGLM-6B等相似级别的LoRA模型训练
